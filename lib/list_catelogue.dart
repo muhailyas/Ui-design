@@ -15,7 +15,7 @@ List<List> catelogue = [
     // Couch potato men
     'assets/images/couchpotato 2.jfif',
     'Couch Potato | Men | Bl...',
-   const  Icon(Icons.more_vert),
+    const Icon(Icons.more_vert),
     '1 piece',
     '₹799',
     'In Stock',
@@ -35,7 +35,7 @@ List<List> catelogue = [
     // combo blahst 1 pack
     'assets/images/blahst 01.jfif',
     'Combo Blahst 1 Pack...',
-   const  Icon(Icons.more_vert),
+    const Icon(Icons.more_vert),
     '1 piece',
     '₹799',
     'In Stock',
@@ -45,7 +45,7 @@ List<List> catelogue = [
     //Mug orchard
     'assets/images/mug orchard.jfif',
     'Mug | Orchard',
-   const  Icon(Icons.more_vert),
+    const Icon(Icons.more_vert),
     '1 piece',
     '₹699',
     'In Stock',
@@ -65,7 +65,7 @@ List<List> catelogue = [
     // i see combo pack
     'assets/images/i see combo.jfif',
     'I See Combo Pack',
-   const  Icon(Icons.more_vert),
+    const Icon(Icons.more_vert),
     '1 piece',
     '₹1299',
     'In Stock',
@@ -82,3 +82,7 @@ List<List> catelogue = [
     Switch(value: true, onChanged: (value) => value),
   ]
 ];
+
+// comment added
+// s
+//djlsjldj

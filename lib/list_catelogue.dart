@@ -82,7 +82,3 @@ List<List> catelogue = [
     Switch(value: true, onChanged: (value) => value),
   ]
 ];
-
-// comment added
-// s
-//djlsjldj
